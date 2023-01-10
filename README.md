@@ -1,7 +1,5 @@
 <div align="center">
 
-[![BetterDiscord Logo](https://media.discordapp.net/attachments/341062370627682315/1053477174566465567/logo_large_ish.png)](https://betterdiscord.app/)
-
 [![CI Status][build-badge]][build-link] [![GitHub Releases][downloads-badge]][downloads-link] [![Discord][discord-badge]][discord-link] [![Website][website-badge]][website-link] [![Docs][docs-badge]][docs-link]
 
 
@@ -63,7 +61,7 @@ Installing addons--like plugins and themes--is easy. All you need to do is selec
 BetterDiscord currently only supports standard local Discord installs. This means snap packages, portable apps, and the web version are all not supported.
 
 Examples of supported platforms:
-- Windows 7 and newer
+- Windows 10 and newer
 - macOS Yosemite and newer
 - Ubuntu 14.04 and newer
 
